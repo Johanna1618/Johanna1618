@@ -1,11 +1,11 @@
-![rocket](https://user-images.githubusercontent.com/90294044/135701551-4cd237c6-2487-4aaf-8641-bded93f0fb35.jpg)
+### Hi, there 👋
 
 <!--
 **Johanna1618/Johanna1618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-### Saludos 👋
+### Hi, there 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
