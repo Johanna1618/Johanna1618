@@ -1,7 +1,7 @@
 ### Saludos 👋
 
 - Estudiante de programación básica del programa MisiónTIC 2022 segunda cohorte.
-- Actualmente me desarrollando una aplicación web en el lenguaje C# 
+- Actualmente me encuentro desarrollando una aplicación web en el lenguaje C# 
 <!--
 **Johanna1618/Johanna1618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
